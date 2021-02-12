@@ -1,0 +1,32 @@
+-- proteines
+- Poissons gras : thon saumon macreau sardine morue truite hareng
+- viande rouge : boeuf, mouton, abats type foie de volaille, ...
+- autres : oeuf, poulet
+- pois chiche, haricots, lentilles, humus
+
+-- feculents
+- patates, patate douce
+- pain noir
+- cereales (granola, allbran, son, flocon davoine)
+- riz brun
+- nuts : cacahuete, cashews, amandes, pistaches, graines de lin
+
+-- fruits
+- petits fruits : groseille, cranberries, fraise, cassis, framboise, ...
+- fruits autres : orange, pamplemousse, kiwi, banane, pruneau, ananas, grenade, pomme, abricots, figue, ...
+
+-- legumes
+- vert type salade : salade, endives, concombres, tomates, citron, betterave, poivron, champignons, asperge precuite, artichaud precuit, olives
+- qui peut se cuire : celeri, carrote, chou, oignon
+- vert qui se cuit : choufleur, brocoli,  navet, artichaud cru, asperge cru, poireau, epinards, choucroute, haricots verts, courgettes
+
+-- autres
+- epices : piments, raifort, curcuma, cannelle, muscade, cardamome, clous de girofle, herbes de provence, origan, gingembre, ail
+- graisse : huile olive, beurre cacahuete, ...
+- fermenté : yaourt, lait fermenté, cornichons,  kimchi
+- herbes odorantes : menthe, basilic, coriandre
+- chocolat
+- sel poivre
+
+
+

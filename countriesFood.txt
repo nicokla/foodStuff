@@ -1,0 +1,56 @@
+1) pays
+Restos, 12/21 (afr3, asie4, eur3, mex, mid):
+Afr : ethiop, maghr, noire/caraibes/reuni
+Asi : viet, thai, chin, ind, (kor, jap)
+EurNord : juifAshke, fr, (allm, rus)
+EurSud : ita, (esp, port)
+Am sud : mex, (perou, argentin)
+MidEast : gr=tur=isr=leb
+Am nord : (us)
+
+2) pays interessants
+1- eth: injeera, doro wat
+2- mag: cous, taj, merg (curc, pimen, citronConfit olives, dates, pruneau)
+3- noir: pouleGril(jerkChick), mafe, yassa, chien, bissap, poissonGrill, rougail (piment, oign, tomat, ging, ail, cibet, cacahuet)
+4- viet: pho, bobun, banmi, cafeViet
+5- thai: curryVert, curryRouge, soupePouletCitronelle (coco, menthe, coriandre, piment, basil, ging, citronelle, curry)
+6- chin: soupNouillBoeuf/Porc, tofuBP, canardLaque, raviolis (piment, vinaig, soja, ?)
+7- ind: poulCurry, naan, lassi, chaiTea (curry, canell, 4epic, …)
+8- mex: burrit/tacos/quesad/mojito/ceviche(poul,beef,haricotsNoirs,piment,citron,avocat,tomate)
+9- ita: saladMozza, pizza, pates, tiramisu, panetone, (mozza, basilic, saucToma, ragu, porc)
+10- mideas: boulettesMenthPignon, poivronFarci, courgetFarci, tomateFeta, tsatsiki, taboule, pouletAgneauBoeufEpice(kebShaw), humus, falafels, (piment, oignons, ail, menthe, coriandre, pignons), glaces(tur,syr)
+11- juifAshke: soupePouletPessah, cholent, babka, gefilteFish, pastrami, pickelfleish, latkes, matsa, vin, harengFume, cornichons, foieHaché ...
+12- francais: vin, pain, fromage, entrecote, boeufBourg, potAuFeu, cassoulet, choucrouteAlsace, bouillabaisse, fondue, saucisson, jambon, paté, desserts (croissant, chocolatine, religi, eclairs, tarteTatin, tarteAbricot, tartePomme, clafoutis, farBreton...), ...
+
+
+3) Viandes: Poulet / Boeuf, veau / porc (boudin, rillettes, jambon, saucisson, saucisse, lardons, lard, ribs, ...) / canard / Mouton, agneau
+Poissons: thon, cabillaud, sardines, dorade, rouget, carpe, truites, hareng, …
+Autre: Calamar, oeuf, ...
+
+
+4) Epices/herbes :
+-gingem
+- coriand, menth, ciboul
+- citron
+- oignon, ail
+- tomate, poivron
+- piment, poivre
+- canelle, curry, 4epice, cardamom, nutmeg
+- fleurOrang
+- noisettes / amandes / pistaches / …
+
+
+5) Techniques preparation :
+-Cuisson: cru, grillé(PoeleOuPlaque), grilleFeu (charbon,bois), roti (four), bouilliSoupes, bouilliRagout=mijoté (marmites)
+-Fermentation: vin, fromag, pain, vinaigre, citronConfit, kimchi
+-Marinades: viandes (pastrami), poisson(ceviche)
+-Sechage: fromage, poisson (hareng), viande (saucisson, jambon sec)
+-Alcools: vin/champagne(raisin), biere/whisky(orge), rhum(canSuc), vodka(patate), cidre(pomme), prune, ...
+
+
+6) melanges interessants
+Poivre feta ananas
+
+7) glaces
+gingembre, thym, basilic, ...
+
