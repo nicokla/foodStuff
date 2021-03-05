@@ -1,28 +1,50 @@
-- preparation
-cru, bouillir, a la poele, sur le feu, frire, au four
+Cuisine
+
+
+
+* preparation
+- cru (salade, tartare)
+- bouillir (pot au feu, pho, ...)
+- cuit longtemps = ragout (bourguignon, effilochéPorc, cassoulet, rougailSaucisse)
+- a la poele (steak, magretCanard, blancPoulet, ...)
+- sur le feu/bbq/binchotan (brochettes, jerk chicken)
+- frit (falafel, pouletKaraage, ...)
+- au four roti (caviar aubergine, patate douce, poulet, ...), 
+- four torrefié
+- mariné (pastrami, ceviche, chich taouk, jerk chicken), 
+- seché/fumé (hareng fumé)...
+- chalumeau
+
+-----
 
 - reduction caramelisation glacage 
-
 -age / ferment / pickle
 vinaigre, sel, dry (fumé), fermente(pain, vin, fromage)
 
-- textures : cremeux, liquide, croustillant, mou(mie pain), consistant (chair animale, legume cru), semi consistant (legume cuit), frais (menthe etc.), mousse
+- textures : 
+- points/granuleux (kinoa, couscous, coquillettes, riz, carottes rapees, tartare, effiloché), fils (kataif, spagetti, ...), surfaces (crepe, pita), multilayers(lasagne, croissant), volumes dur (viande peu cuite, carotte cru), volume mou (viande tres cuite, legume cuit, creme, puree, ...), volume aerien (soufflé, mousse), gelatineux, liquides (sauce, jus, soupe), elastique (calamar, poulpe), spongieux (brioche), croustillant (chips, frites, ...), liquide collant (miel, ...), liquide epais/visqueux (+starch, reduction, ...)
 
 - gouts : sucré, acidulé, acide, salé, amer, earthy/frais, pimenté/poivré/piquant
 
 ---------
 
 -epices
-cumin, canelle (poudre ou batonets), citronelle, ail, ail noir, gingembre (ou galangal, entier ou poudre ou confit), sauce soja, moutarde (grains ou sauce), coriandre en poudre, fenugrec leaves (kasuri methi), poivre vert rouge sichuan deTimut, thym, laurier, origan, romarin,  curcuma(turmeric, poudre ou racines), paprika, sumac, safran, sauge, estragon (tarragon), lavande, cardamone , anchoix (seches, pasSeché), soybean paste (dark miso paste), anis etoilé, coconutFlakes vanille clouGirofle keffirLemonLeave muscade fleurDOranger eauDeRose wasabi raifort feveTonka asaFoetida/hing cacao/Chocolat café
+cumin, anis, canelle (poudre ou batonets), citronelle, lavande, verveine, ail (paste, roti), ail noir, gingembre (ou galangal, entier ou poudre ou confit), sauce soja, moutarde (grains ou sauce), coriandre en poudre, fenugrec leaves (kasuri methi), poivre vert rouge sichuan deTimut, thym, laurier, origan, romarin,  curcuma(turmeric, poudre ou racines), paprika, sumac, safran, sauge, estragon (tarragon), cardamone , anchoix, soybean paste (dark miso paste), anis etoilé, coconutFlakes vanille clouGirofle keffirLemonLeave muscade fleurDOranger eauDeRose wasabi raifort feveDeTonka asaFoetida/hing cacao/Chocolat café grainesFenouil, marjolaine, cerfeuil, molokheya(corette), baieGenievre, hibiscus, dashi(jap), truffe (du perigord), moringa, poivre de jamaique, reglisse, sarriette, baieDeGoji
+
+Fleurs : bourrache, fleur dail, capucine, tagete estragon, fleur de fenouil, fleur de ciboulette, fleur de courge
+
+Trucs sechés : cibouletteSechee, persilSeché, ailPoudre, echalottesSechees, oignonLyophilisé, basilicSeché, mentheSechée, boniteSechee, anchoixSeché
 
 - melanges d'epices 
-Epices cajun, berberé(ethiopie), teriyaki, garam masala, curry, poudre saté
+Epices cajun, berberé(ethiopie), teriyaki, garam masala, curry, poudre saté, quatre epices, sel au celeri, rasElHanout(epicesCouscous), togarashiShishimi (jap), epices saté
 
 - alcools dans bouffe
-vinRouge vinBlanc mirin sake awamori 
+vinRouge vinBlanc mirin sake awamori bourbon
+- alcool accompagnement
+vin biere vodka whisky
 
-- epaississant (sauce)
-starch/amidon/fecule(patate, riz, mais) - maizena(fecule de mais) ; farine (ble mais sarrazin poisChiche)
+- epaississant (sauce) / gelifiant
+starch/amidon/fecule(patate, riz, mais) - maizena(fecule de mais) ; farine (ble mais sarrazin poisChiche) ; xantane ; agar-agar, feuilles de gelatine
 
 - coagulant
 magnesium chloride (nigari)
@@ -31,64 +53,85 @@ magnesium chloride (nigari)
 levure chimique, levure boulangere, levain, baking soda (bicarbonate de sodium)
 
 - rehausseur de gout
-sel, sucre(ou miel,  sirop derable, caramel), glutamate=msg, cube bouillon (vege poulet boeuf), gras
+sel, sucre(ou miel,  sirop derable, caramel, dateSyrup=silan), glutamate=msg, cube bouillon (vege poulet boeuf), gras,
 
 -legumes
-Endives fenouil celeri carottes tomate(cuites/boite/coulis, concentré, crues, sechees) poivron oignonBlancJaunRouge echalottes oignonsNouveaux/cebette/chives carrotes aubergines(eggplant) courgettes(zuchini), olivesNoiresVertes, champignons betterave epinard navet artichaud asperges chouFleur haricotsVerts petitsPois brocoli oseille topinambour salsifi
+fenouil celeri carottes (oranges jaunes violettes) tomate(cuites/boite/coulis, concentré, crues, sechees) poivron  carrotes aubergines(eggplant) courgettes(zuchini), olivesNoiresVertes, champignons betterave navet artichaud asperges chouFleur haricotsVerts petitsPois brocoli topinambour salsifi panet chou chouRouge poireau patissons blettes daikon(radisBlanc), radis, poireau 
+
+- oignons :
+oignonBlancJaunRouge (frit crus confits) echalottes oignonsNouveaux/cebette/chives
+
+- Salades :
+saladeNormale mache roquette endives kale cresson puntarelle epinard oseille poussesDOseille,
+
+- tomates: jaunes vertes rouges coeurDeBoeuf tomatesCerises, 
 
 - fruits
-agrumes: mandarines oranges clementines
-fruits rouges: groseilles mirtilles cerises fraises framboises cassis
-autres fruits : pomme poire abricots figues  quetch  prunes pruneau nectarines peches grenade fruitPassion raisins raisinsSecs
+agrumes: mandarines oranges clementines pamplemousse pomelo cedrat citronVert citronJaune
+fruits rouges: groseilles myrtilles cerises fraises framboises cassis bleuets
+autres fruits : pomme poire abricots figues  quetch prunes pruneau nectarines peches grenade fruitPassion raisins raisinsSecs figueDeBarbarie melon pasteque ananas rhubarbe mangues 
 
 - pimenté / piquant
 poivre noir, poivre blanc
-piment cru (serrano thai jalapeno...), seches, poudre de piment (cayenne paprika pimentsOiseaux), sauce/pâte de piment, chilly flakes
-sauce pimentées et epicees : harissa(maghreb) gochujang(korea) sambal(indonesie) laoGanMa(chine) tabasco
+piment cru (serrano thai jalapeno...), seches, fumé, poudre de piment (cayenne paprika pimentsOiseaux ...), sauce/pâte de piment, chilly flakes
+sauce pimentées et epicees : harissa(maghreb) gochujang(korea) sambal(indonesie) laoGanMa(chine) tabasco sriracha (asia) yuzuKocho (japon)
 
 -acide
 citron jaune, citron vert
-vinaigre de vin, vinaigre balsamique, vinaigre de cidre, vinaigre de riz, vinaigre de grenade, vinaigre de fruits rouges
+vinaigre de vin, vinaigre balsamique, vinaigre de cidre, vinaigre de riz, vinaigre de grenade, vinaigre de fruits rouges, vinaigre de sureau
 
 - acidulé / tangy
-syrop de grenade, capres, citronConfit, tamarinPaste, cranberry, kimchi, choucroute, moutarde, amba (ou chutney), olives calamata, yuzu, pickles d'oignon rouge, cornichons (normal ou aigre doux ou marinade salée)
+syrop de grenade, capres, citronConfit, tamarinPaste, cranberry, kimchi, choucroute, moutarde, amba (ou chutney), olives calamata, yuzu, pickles d'oignon rouge, pickles de chou rouge, cornichons (normal ou aigre doux ou marinade salée), citron caviar, mustard leaf (takanazuke), feuilles de vignes, shizoLeaves, sakaSaka (feuilles manioc pillées), prunes, rhubarbe, cerisesNoires, fruit de la passion, kiwi, 
+
+- amertume
+ecorce d'agrume (orange, citron, yuzu, ...), 
+ecorce d'agrume brulé, agrume confit dans le sel, thé noir, maté, 
 
 -gras
-huile (olive tournesol colza=canola noix sesame coconut pepinRaisin avocat moutarde), beurre (ou ghee), creme (liquide ou epaisse), mascarpone, beurre de cacahuete, gras de canard, thina
+huile (olive tournesol colza=canola noix sesame coconut pepinRaisin avocat moutarde argousier), beurre (ou ghee), beurre de cacahuete, gras de canard,
+
+- cremes:
+creme (liquide ou epaisse), mascarpone, cottage cheese, cream cheese, thina, skyr, creme fouettée, 
 
 - fraicheur
-oignons nouveaux, persil, basilic, coriandre, menthe, aneth, ciboulette, cerfeuil
+oignons nouveaux, persilPlatFrisé, basilic, coriandre, menthe, aneth, ciboulette, cerfeuil, cloveBasil, feuilleDeShizo
 
 - liquide adoucissant
 yaourt, lait fermenté, creme fraiche, lait de coco, ...
 
 -feculent
-riz pates patates fonio couscous quinoa patateDouce bananesPlantains atieke lentilles poisChiche haricots...
+riz pain (baguette, tradition, painDeMie,...) brioche pates(spaghetti, tagliatelles penne coquillettes, lasagnes, etc) patates fonio couscous quinoa patateDouce bananesPlantains atieke lentilles poisChiche haricotsBlancNoirVert
+amidon=starch(patate, mais,...)
+farineBlé, farinePoixChiche, farineSarrazin, farineMais (maizena), farineTapioca
+chapelure(panko, etc) manioc, mil (cereale), polenta, epautre
+
+- cucurbitacés
+potiron citrouille potimarron butternut
 
 -Proteines
 Boeuf mouton agneau veau porc poulet canard chevre sanglier chevreuil oie lapin pigeon grenouille bison crocodile
-Saumon thon cabillaud sardines hareng carpe dorade rouget truite maquereau bar
-Poulpe, seiche
-Moules, huitres, escargot de mer
-Crabes, crevettes, homard, ecrevisse
-Tofu
-Oeuf
+Saumon thon cabillaud sardines hareng carpe dorade rouget truite maquereau bar espadon raie greenMullet merlu poissonChat caregone, 
+Poulpe, seiche, calamar
+Moules, huitres, escargot de mer (bigorneaux), palourdes, coquillesSaintJacques, oursin, 
+Crabes (etrilles,...), crevettes, homard, ecrevisse, araigneeDeMer
+Tofu haloumi paneer
+Oeuf (dur, omelette, brouillé, mollets, coque, au plat)
 PoisChiche haricotsRougesBlancsNoirsVertes LentillesVertesRougesNoires haricotMungo haricotsDeLima(butterBeans) 
 Algues : wakamé, ...
 Produits laitiers : lait, creme, yaourt, fromage
-
+Caviar, oeufs d'autres poisson, ...
 
 - plats viande
 porc : saucisse, saucisson, jambon, lardon, lard, ribs, jaret, haché, andouillette, pâté
-boeuf : haché, entrecôte, filet, fauxFilet, bavetteDAloyau, onglet, rumsteck, gite a la noix, paleron, macreuse, langue
+boeuf : haché, entrecôte, filet, fauxFilet, bavetteDAloyau, onglet, rumsteck, gite a la noix, paleron, macreuse, langue, abats
 
-- sauces : espagnole (bourguignon, demi glace, roux, chasseur, ...), velouté (sauce vin blanc, supremeChampi), tomate (mexique italie etc), bechamel, hollandaise (bearnaise, fleurette mayonnaise), gingerGarlicCurry sauces (butter chicken, ...), spinach (palak paneer), thai curries (piment, laitCoco, citronVert, citronelle), mexican (piment citronVert tomates ail avocat), italian (tomate basilic ail huileOlive mozza parmesan anchoix capres), chinois/korean (piment, huileSesame, chives, misoPaste, vinaigreRiz, soja, caramel, msg, starch, tofu)
+- sauces : espagnole (bourguignon, demi glace, roux, chasseur, ...), velouté (sauce vin blanc, supremeChampi), tomate (mexique italie etc), bechamel, hollandaise (bearnaise, fleurette, mayonnaise), gingerGarlicCurry sauces (butter chicken, ...), spinach (palak paneer), thai curries (piment, laitCoco, citronVert, citronelle), mexican (piment citronVert tomates ail avocat), italian (tomate basilic ail huileOlive mozza parmesan anchoix capres), chinois/korean/jap (piment, huileSesame, chives, misoPaste, vinaigreRiz, sauceSoja, caramel, msg, starch, tofu), sauceBulldog (jap), saucePonzu (jap)
 
 - champignons :
-chanterelles, trompette de la mort, champi de paris, pieds de mouton, girolles, 
+chanterelles, trompette de la mort, champi de paris, pieds de mouton, girolles, cepes, pleurotes, shiitake, 
 
 - craquant / cremeux si mixé + eau
-noix, noisettes, noix pecan, noix bresil, cacahuete, pistache, amandes, sesame, pignonsDePin, noixDeCoco
+noix, noisettes, noix pecan, noix bresil, cacahuete, pistache, amandes, sesame, pignonsDePin, noixDeCoco, pavot
 
 - utile mixé ?
 graines de melon, de courge, graines de tournesol
@@ -96,18 +139,19 @@ graines de melon, de courge, graines de tournesol
 * ingredients fermentés / sechés / salé / fumé...
 -vin (raisin), biereWhisky (orge, ...), cidre (pomme), vodka (patate), rhum(canne a sucre)
 -vinaigres
--fromages (brebis, vache, chevre, + bacteries, + pate dure ou molle,...) : feta, mozza, gouda, parmesan, peccorino, camembert, brie, comté, chevre frais, chevre normal, tome de savoie, bleu, emmental, salers, ...
+-fromages (brebis, vache, chevre, + bacteries, + pate dure ou molle,...) : feta, mozza, burrata, gouda, parmesan, peccorino, camembert, brie, comté, chevre frais, chevre normal, tome de savoie, bleu, emmental, salers, ...
 - yaourt, yaourt liquide (inde turquie ...)
 -pain (+pizza, vienoiseries...)
 -viandeSechees (saucisson, jambon, dry aged beef...)
 -poissonSechee (hareng, ...)
 - poisson cuit au citron (ceviche)
--pickledFruits (amba, chutney, ...) -pickledVegetables (kimchi, ...)
+-pickledFruits : mangue (amba, chutney, ...),  -pickledVegetables : chou chinois (kimchi), chou rouge, oignon rouge, carottes, 
 
 
 - croustillant:
-chips : parmesan, bananes plantin, betterave, 
+chips : parmesan, bananes plantin, betterave, topinambour, 
 frites : patates, patates douces
+chapelure : panko(jap), sesame, ...
 gout chips : wasabi
 sauces frites : mayo, aioli, toum(lebanese), ketchup, mayo pimentée, ...
 
